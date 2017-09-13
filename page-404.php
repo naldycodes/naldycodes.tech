@@ -53,8 +53,8 @@
             <hr class="w-80">
             <br>
 
-            <a class="btn btn-xl btn-round btn-white w-200 hidden-sm-down" href="#" data-scrollto="section-services">Back to Home</a>
-            <a class="btn btn-lg btn-round btn-white w-200 hidden-md-up" href="#" data-scrollto="section-services">Back to Home</a>
+            <a class="btn btn-xl btn-round btn-white w-200 hidden-sm-down" href="index.php" data-scrollto="section-services">Back to Home</a>
+            <a class="btn btn-lg btn-round btn-white w-200 hidden-md-up" href="index.php" data-scrollto="section-services">Back to Home</a>
 
           </div>
 
