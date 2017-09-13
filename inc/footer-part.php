@@ -12,13 +12,11 @@
             </div>
 
             <div class="col-12 col-md-2">
-              <h6 class="heading-alt text-uppercase fs-14 mb-3">Company</h6>
+              <h6 class="heading-alt text-uppercase fs-14 mb-3">Social Networks</h6>
               <div class="nav flex-column">
-                <a class="nav-link" href="page-how-it-works.html">Developers</a>
-                <a class="nav-link" href="page-pricing.html">Upcoming Projects</a>
-                <a class="nav-link" href="blog-grid.html">Blog</a>
-                <a class="nav-link" href="page-about.html">About</a>
-                <a class="nav-link" href="page-privacy.html">Privacy Policy</a>
+                <a class="nav-link" href="https://www.facebook.com/naldycodes">Facebook - @naldycodes</a>
+                <a class="nav-link" href="https://twitter.com/naldycodes">Twitter - @naldycodes</a>
+                <a class="nav-link" href="https://www.instagram.com/naldycodes">Instagram - @naldycodes</a>
               </div>
             </div>
 
