@@ -46,16 +46,16 @@
         <div class="row h-full">
           <div class="col-12 col-lg-8 offset-lg-2 align-self-center">
 
-            <h1 class="display-1 hidden-sm-down">Naldycodes</h1>
+            <h1 class="display-2 hidden-sm-down">Naldycodes</h1>
             <h1 class="display-4 hidden-md-up">Naldycodes</h1>
-            <br>
+            <!-- <br> -->
 
             <p class="fs-20 w-400 mx-auto hidden-sm-down">Tanzanian Technology Enthusiasts, an asset for
-            <span class="text-warning" data-type="African Technology, African Development, Efficient Softwares"></span></p>
-            <p class="fs-16 w-250 mx-auto hidden-md-up">Tanzanian Technology Enthusiasts, an asset for<span class="text-warning" data-type="African Technology, African Development, Efficient Softwares"></span></p>
+            <span class="text-warning" data-type=" African Technology, African Development, Efficient Softwares"></span></p>
+            <p class="fs-16 w-250 mx-auto hidden-md-up">Tanzanian Technology Enthusiasts, an asset for <span class="text-warning" data-type=" African Technology, African Development, Efficient Softwares"></span></p>
 
             <hr class="w-80">
-            <br>
+            <!-- <br> -->
 
             <a class="btn btn-xl btn-round btn-white w-200 hidden-sm-down" href="#" data-scrollto="section-services">Welcome</a>
             <a class="btn btn-lg btn-round btn-white w-200 hidden-md-up" href="#" data-scrollto="section-services">Welcome</a>
@@ -296,7 +296,7 @@
 
                     <p class="text-quoted mb-0">It's quite incredible getting a platform that can not only expand your project's logic and potential, 
                       but also keep it intact and consistent throughout it's excecution. 
-                      That's how brilliant NANDYCODES is.</p>
+                      That's how brilliant NALDYCODES is.</p>
                     <div class="media align-items-center pb-0">
                       <img class="avatar avatar-xs" src="assets/img/avatar/lon.jpg" alt="...">
                       <div class="media-body lh-1">
@@ -316,7 +316,7 @@
                     <label class="fa fa-instagram text-lighter"></label>
                     </div>
 
-                    <p class="text-quoted mb-0">Affecting Tanzanian's life with good and efficient software might be enough to describe this team, keep up the good work, grateful for you thoughtful ideas</p>
+                    <p class="text-quoted mb-0">Affecting Tanzanian's life with good and efficient software might be enough to describe this team, keep up the good work, grateful for your thoughtful ideas</p>
 
                     <div class="media align-items-center pb-0">
                       <img class="avatar avatar-xs" src="assets/img/avatar/fred.jpg" alt="...">

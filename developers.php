@@ -31,7 +31,7 @@
         require_once 'inc/nav.php';
      ?>
          <!-- Header -->
-    <header class="header header-inverse bg-fixed" style="background-image: url(assets/img/bg-laptop.jpg)" data-overlay="8">
+    <header class="header header-inverse bg-fixed" style="background-image: url(assets/img/bg.jpg)" data-overlay="8">
       <div class="container text-center">
 
         <div class="row">
@@ -67,51 +67,107 @@
 
           <div class="row gap-y">
             <div class="col-12 col-md-4 team-2">
-              <a href="#">
-                <img src="assets/img/avatar/1.jpg" alt="...">
-              </a>
-              <h5>Morgan Guadis</h5>
-              <small>Co-Founder & CEO</small>
-              <p>Signs you'll a, life itself to in signs seed under fruitful good open behold Our of stars whales forth.</p>
+                <img src="assets/img/dany.jpg" alt="..." class="small-avatar">
+              <h5>Daniel Kindimba</h5>
+              <small>Founder Olbongo</small>
+              <p>
+                If brute force doesn’t solve your problems, then you aren’t using enough.
+              </p>
               <br>
               <div class="social social-boxed social-rounded social-gray">
-                <a class="social-facebook" href="#"><i class="fa fa-facebook"></i></a>
-                <a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a>
-                <a class="social-gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                <a class="social-linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                <a class="social-facebook" href="https://facebook.com/daniel.kindimba" target="blank"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter" href="https://twitter.com/kindimba_daniel" target="blank"><i class="fa fa-twitter"></i></a>
               </div>
             </div>
 
 
             <div class="col-12 col-md-4 team-2">
-              <a href="#">
-                <img src="assets/img/avatar/2.jpg" alt="...">
-              </a>
-              <h5>John Senating</h5>
-              <small>Co-Founder & CTO</small>
-              <p>So firmament sea them sea. Set saying land signs had the us replenish seed moved rule, place let.</p>
+                <img src="assets/img/avatar/don.jpg" alt="..." class="small-avatar">
+              <h5>Donald Felician</h5>
+              <small>Founder Naldycodes</small>
+              <p>
+                Intelligence is the ability to avoid doing work, yet getting the work done.
+              </p>
               <br>
               <div class="social social-boxed social-rounded social-gray">
-                <a class="social-facebook" href="#"><i class="fa fa-facebook"></i></a>
-                <a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a>
-                <a class="social-gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                <a class="social-linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                <a class="social-facebook" href="https://www.facebook.com/donaldydome" target="blank"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter" href="https://www.twitter.com/naldydome" target="blank"><i class="fa fa-twitter"></i></a>
+                <a class="social-linkedin" href="https://www.instagram.com/donald_felician" target="blank"><i class="fa fa-instagram"></i></a>
               </div>
             </div>
 
 
             <div class="col-12 col-md-4 team-2">
-              <a href="#">
-                <img src="assets/img/avatar/3.jpg" alt="...">
-              </a>
+                <img src="assets/img/avatar.png" alt="..." class="small-avatar">
               <h5>Longino Bigage</h5>
-              <small>Software Developer</small>
+              <small>Software Engineer</small>
+              <p>Saving mankind through hundreds of lines of code everyday... That's a miracle. </p>
+              <br>
+              <div class="social social-boxed social-rounded social-gray">
+                <a class="social-facebook" href="https://facebook.com/longinoBigage" target="blank"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter" href="https://twitter.com/longibigage" target="blank"><i class="fa fa-twitter"></i></a>
+        
+              </div>
+            </div>
+          </div>
+
+           <div class="row gap-y" style="margin-top: 35px !important;">
+            <div class="col-12 col-md-4 team-2">
+                <img src="assets/img/avatar.png" alt="..." class="small-avatar">
+              <h5>Walter Kimaro</h5>
+              <small>Software Engineer</small>
+              <p>Create your own visual style… let it be unique for yourself and yet identifiable for others</p>
+              <br>
+              <div class="social social-boxed social-rounded social-gray">
+                <a class="social-facebook" href="#"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a>
+              </div>
+            </div>
+
+
+            <div class="col-12 col-md-4 team-2">
+                <img src="assets/img/avatar/emma.jpg" alt="..." class="small-avatar">
+              <h5>Prince Emineys</h5>
+              <small>Graphics & Web Designer</small>
+              <p>
+                What separates design from art is that design is meant to be... functional.
+              </p>
+              <br>
+              <div class="social social-boxed social-rounded social-gray">
+                <a class="social-facebook" href="https://www.facebook.com/emineysprince"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter" href="https://www.twitter.com/emineysprince"><i class="fa fa-twitter"></i></a>
+                <a class="social-linkedin" href="https://www.instagram.com/emineysprince"><i class="fa fa-instagram"></i></a>
+              </div>
+            </div>
+
+
+            <div class="col-12 col-md-4 team-2">
+              
+                <img src="assets/img/avatar.png" alt="..." class="small-avatar">
+              
+              <h5>Sharif Mussa</h5>
+              <small>Web Developer</small>
               <p>Saving mankind through hundreds of lines of code everyday... That's a miracle. </p>
               <br>
               <div class="social social-boxed social-rounded social-gray">
                 <a class="social-facebook" href="#longinoBigage"><i class="fa fa-facebook"></i></a>
                 <a class="social-twitter" href="#@longibigage"><i class="fa fa-twitter"></i></a>
         
+              </div>
+            </div>
+
+              <div class="col-12 col-md-4 team-2">
+                <img src="assets/img/avatar/emma.jpg" alt="..." class="small-avatar">
+              <h5>Prince Emineys</h5>
+              <small>Graphics & Web Designer</small>
+              <p>
+                What separates design from art is that design is meant to be... functional.
+              </p>
+              <br>
+              <div class="social social-boxed social-rounded social-gray">
+                <a class="social-facebook" href="https://www.facebook.com/emineysprince"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter" href="https://www.twitter.com/emineysprince"><i class="fa fa-twitter"></i></a>
+                <a class="social-linkedin" href="https://www.instagram.com/emineysprince"><i class="fa fa-instagram"></i></a>
               </div>
             </div>
           </div>

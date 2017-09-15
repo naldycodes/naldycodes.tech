@@ -36,9 +36,22 @@
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   }
 
+  .logo-inverse{
+    position: relative;
+    top: -7px;
+  }
+  .logo-default{
+    position: relative;
+    top: -7px;
+  }
+
 }
 
 .logo-inverse{
   height: 40px !important;
+}
+.small-avatar{
+  max-height: 100px;
+  max-width: 100px;
 }
 
