@@ -14,9 +14,12 @@
             <div class="col-12 col-md-2">
               <h6 class="heading-alt text-uppercase fs-14 mb-3">Social Networks</h6>
               <div class="nav flex-column">
-                <a class="nav-link" href="https://www.facebook.com/naldycodes">Facebook - @naldycodes</a>
-                <a class="nav-link" href="https://twitter.com/naldycodes">Twitter - @naldycodes</a>
-                <a class="nav-link" href="https://www.instagram.com/naldycodes">Instagram - @naldycodes</a>
+                <a class="nav-link" href="https://www.facebook.com/naldycodes" target="blank">
+                  <i class="fa fa-facebook"></i> - @naldycodes</a>
+                <a class="nav-link" href="https://twitter.com/naldycodes" target="blank">
+                  <i class="fa fa-twitter" class="text-primary"></i>- @naldycodes</a>
+                <a class="nav-link" href="https://www.instagram.com/naldycodes" target="blank">
+                  <i class="fa fa-instagram"></i> - @naldycodes</a>
               </div>
             </div>
 
