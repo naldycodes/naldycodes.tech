@@ -31,7 +31,7 @@
         require_once 'inc/nav.php';
      ?>
          <!-- Header -->
-    <header class="header header-inverse bg-fixed" style="background-image: url(assets/img/bg-laptop.jpg)" data-overlay="8">
+    <header class="header header-inverse bg-fixed" style="background-image: url(assets/img/bg.jpg)" data-overlay="8">
       <div class="container text-center">
 
         <div class="row">
@@ -57,13 +57,22 @@
           <div class="row">
             <div class="col-12 col-lg-8 offset-lg-2">
               
-              <p class="lead">Dynamically procrastinate professional best practices vis-a-vis next-generation content. Seamlessly extend sustainable networks via plug-and-play niche markets. Progressively communicate customized alignments for client-focused services. Holisticly cultivate professional mindshare with impactful niche markets. Dynamically fabricate market-driven collaboration and idea-sharing with turnkey.</p>
+              <p class="lead">
+                Naldycodes is a Tanzanian ICT company built with the backbone of developers with different skills, from graphics, Web, to mobile software development. The team works together to curate amaizing and efficient software that affect Tanzanian's life
+              </p>
 
               <hr class="w-100">
 
-              <p>Proactively whiteboard covalent functionalities through reliable applications. Professionally integrate 24/365 manufactured products rather than end-to-end collaboration and idea-sharing. Conveniently disintermediate progressive scenarios via inexpensive ROI. Proactively build seamless markets rather than world-class channels. Objectively disseminate multimedia based methodologies whereas robust.</p>
+              <p>
+                We are compelled to provide the technology you need, with the help from different Information and Communication technology patners we offer the cutting edge technology solutions to help you transform your technology idea into a reality.
+              </p>
+              <p>
+                We are derived by the technology capabilities to solve problems in different fields using Softwares, Technical support and Idea polishing with full concern of the current Tanzanian Technology status
+              </p>
 
-              <p>Compellingly plagiarize economically sound opportunities and cross-platform e-business. Completely embrace alternative initiatives whereas innovative services. Holisticly e-enable one-to-one internal or "organic" sources via interactive technologies. Energistically leverage other's end-to-end e-tailers with goal-oriented innovation. Objectively evolve focused networks for unique methods.</p>
+              <p>
+                Our belief lies in the fact that, freely working developers can produce more than expected especially when provided with the right opportunity to showcase their work, together we do great things.
+              </p>
 
             </div>            
           </div>
