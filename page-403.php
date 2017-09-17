@@ -16,18 +16,18 @@
     <title> Naldycodes Error</title>
 
     <!-- Styles -->
-    <link href="assets/css/core.min.css" rel="stylesheet">
-    <link href="assets/css/naldycodes.min.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/core.min.css" rel="stylesheet">
+    <link href="/assets/css/naldycodes.min.css" rel="stylesheet">
+    <link href="/assets/css/style.css" rel="stylesheet">
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/favicon.png">
-    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="icon" href="/assets/img/favicon.png">
 
     <!--  Open Graph Tags -->
     <meta property="og:title" content="Naldycodes">
     <meta property="og:description" content="A Technology company that delivers current technology from web to console applications, design, consultant services, computer repair, networking and many more, we are a backbone of young programmers with the passion to solve problems through technology.">
-    <meta property="og:image" content="assets/img/favicon.png">
+    <meta property="og:image" content="/assets/img/favicon.png">
     <meta name="twitter:card" content="summary_large_image">
   </head>
 
@@ -53,8 +53,8 @@
             <hr class="w-80">
             <br>
 
-            <a class="btn btn-xl btn-round btn-white w-200 hidden-sm-down" href="index.php">Back to Home</a>
-            <a class="btn btn-lg btn-round btn-white w-200 hidden-md-up" href="index.php">Back to Home</a>
+            <a class="btn btn-xl btn-round btn-white w-200 hidden-sm-down" href="/index.php">Back to Home</a>
+            <a class="btn btn-lg btn-round btn-white w-200 hidden-md-up" href="/index.php">Back to Home</a>
 
           </div>
 
