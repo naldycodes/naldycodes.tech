@@ -77,8 +77,8 @@
 
           </div>
 
-          <div class="col-12 align-self-end text-center">
-              <a class="scroll-down-5 scroll-down-inverse" href="#" data-scrollto="section-services"><span></span></a>
+          <div class="col-12 align-self-end text-center hidden-sm-down">
+              <a class="scroll-down-5 scroll-down-inverse " href="#" data-scrollto="section-services"><span></span></a>
           </div>
 
         </div>

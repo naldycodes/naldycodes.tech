@@ -44,10 +44,6 @@
     position: relative;
     top: -7px;
   }
-  .h-fullscreen{
-    height: calc(100vh - 50px);
-  }
-
 }
 
 .logo-inverse{
