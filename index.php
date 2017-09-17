@@ -21,8 +21,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="A Technology company that delivers current technology from web to console applications, design, consultant services, computer repair, networking and many more, we are a backbone of young programmers with the passion to solve problems through technology.">
+    <meta name="keywords" content="Tanzani, Tanzania technology, Naldycodes, Naldy, Tz">
+    <meta name="theme-color" content="#827717" />
     
     <title>Naldycodes The home of Tanzanian Technology</title>
 
