@@ -2,6 +2,7 @@
 
     $links         = array(
       'index'      => 'Home',
+      'developers' => 'Developers',
       'about'      => 'About Us'
     );
 

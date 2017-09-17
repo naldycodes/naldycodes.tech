@@ -1,20 +1,19 @@
 <?php 
 	require_once 'core/init.php';
 
-	
-	if(isset($_POST['submit'])) {
-		$email = $_POST['email'];
-		$name = $_POST['name'];
-		$message = $_POST['message'];
+  $results = "";
 
-		$contacts = new Contacts();
-		$send_message = $contacts->send_message($name, $email, $message);
+  if (isset($_POST['submit'])) {
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
 
+    $contact = new Contacts();
 
-		Session::flash("messagesent", "The message was sent successfully");
-		Functions::redirect_to('contact.php?status=successfully');
-	}
+    $results = $contact->send_message($name, $email, $message);
 
+    // die(var_dump($contact));
+  }
 
 
  ?>
@@ -27,7 +26,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="A Technology company that delivers current technology from web to console applications, design, consultant services, computer repair, networking and many more, we are a backbone of young programmers with the passion to solve problems through technology.">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="Technology">
     
     <title>Naldycodes The home of Tanzanian Technology</title>
 
@@ -43,7 +42,6 @@
     <!--  Open Graph Tags -->
     <meta property="og:title" content="Naldycodes">
     <meta property="og:description" content="A Technology company that delivers current technology from web to console applications, design, consultant services, computer repair, networking and many more, we are a backbone of young programmers with the passion to solve problems through technology.">
-    <meta property="og:image" content="">
     <meta name="twitter:card" content="summary_large_image">
   </head>
 
@@ -55,7 +53,7 @@
 
 
          <!-- Header -->
-    <header class="header header-inverse bg-fixed" style="background-image: url(assets/img/bg-laptop.jpg)" data-overlay="8">
+    <header class="header header-inverse bg-fixed" style="background-image: url(assets/img/bg.jpg)" data-overlay="8">
       <div class="container text-center">
 
         <div class="row">
@@ -88,6 +86,8 @@
 
           <div class="row gap-y">
             <div class="col-12 col-md-6">
+
+                <p class="text-success text-center"><?php echo $results; ?></p>
 
               <form action="" method="POST" class="contactform">
 

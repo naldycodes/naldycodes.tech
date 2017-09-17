@@ -58,14 +58,25 @@
 
       <section class="section">
         <div class="container">
-          <header class="section-header">
-            <small>People</small>
-            <h2>The Team</h2>
-            <hr>
-            <p class="lead">Meet out small team that make those great products.</p>
-          </header>
 
-          <div class="row gap-y">
+          <div class="row gap-y justify-content-md-center">
+             <div class="col-12 col-md-4 center team-2">
+                <img src="assets/img/avatar/don.jpg" alt="..." class="small-avatar">
+              <h5>Donald Felician</h5>
+              <small>Founder Naldycodes</small>
+              <p>
+                Intelligence is the ability to avoid doing work, yet getting the work done.
+              </p>
+              <br>
+              <div class="social social-boxed social-rounded social-gray">
+                <a class="social-facebook" href="https://www.facebook.com/donaldydome" target="blank"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter" href="https://www.twitter.com/naldydome" target="blank"><i class="fa fa-twitter"></i></a>
+                <a class="social-linkedin" href="https://www.instagram.com/donald_felician" target="blank"><i class="fa fa-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="row gap-y" style="margin-top: 35px !important;">
             <div class="col-12 col-md-4 team-2">
                 <img src="assets/img/dany.jpg" alt="..." class="small-avatar">
               <h5>Daniel Kindimba</h5>
@@ -80,23 +91,6 @@
               </div>
             </div>
 
-
-            <div class="col-12 col-md-4 team-2">
-                <img src="assets/img/avatar/don.jpg" alt="..." class="small-avatar">
-              <h5>Donald Felician</h5>
-              <small>Founder Naldycodes</small>
-              <p>
-                Intelligence is the ability to avoid doing work, yet getting the work done.
-              </p>
-              <br>
-              <div class="social social-boxed social-rounded social-gray">
-                <a class="social-facebook" href="https://www.facebook.com/donaldydome" target="blank"><i class="fa fa-facebook"></i></a>
-                <a class="social-twitter" href="https://www.twitter.com/naldydome" target="blank"><i class="fa fa-twitter"></i></a>
-                <a class="social-linkedin" href="https://www.instagram.com/donald_felician" target="blank"><i class="fa fa-instagram"></i></a>
-              </div>
-            </div>
-
-
             <div class="col-12 col-md-4 team-2">
                 <img src="assets/img/avatar.png" alt="..." class="small-avatar">
               <h5>Longino Bigage</h5>
@@ -109,6 +103,21 @@
         
               </div>
             </div>
+
+             <div class="col-12 col-md-4 team-2">
+                <img src="assets/img/avatar/emma.jpg" alt="..." class="small-avatar">
+              <h5>Prince Emineys</h5>
+              <small>Graphics & Web Designer</small>
+              <p>
+                What separates design from art is that design is meant to be... functional.
+              </p>
+              <br>
+              <div class="social social-boxed social-rounded social-gray">
+                <a class="social-facebook" href="https://www.facebook.com/emineysprince"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter" href="https://www.twitter.com/emineysprince"><i class="fa fa-twitter"></i></a>
+                <a class="social-linkedin" href="https://www.instagram.com/emineysprince"><i class="fa fa-instagram"></i></a>
+              </div>
+            </div>
           </div>
 
            <div class="row gap-y" style="margin-top: 35px !important;">
@@ -119,55 +128,41 @@
               <p>Create your own visual style… let it be unique for yourself and yet identifiable for others</p>
               <br>
               <div class="social social-boxed social-rounded social-gray">
-                <a class="social-facebook" href="#"><i class="fa fa-facebook"></i></a>
-                <a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a>
+                <a class="social-facebook"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter"><i class="fa fa-twitter"></i></a>
               </div>
             </div>
 
 
-            <div class="col-12 col-md-4 team-2">
-                <img src="assets/img/avatar/emma.jpg" alt="..." class="small-avatar">
-              <h5>Prince Emineys</h5>
-              <small>Graphics & Web Designer</small>
-              <p>
-                What separates design from art is that design is meant to be... functional.
-              </p>
-              <br>
-              <div class="social social-boxed social-rounded social-gray">
-                <a class="social-facebook" href="https://www.facebook.com/emineysprince"><i class="fa fa-facebook"></i></a>
-                <a class="social-twitter" href="https://www.twitter.com/emineysprince"><i class="fa fa-twitter"></i></a>
-                <a class="social-linkedin" href="https://www.instagram.com/emineysprince"><i class="fa fa-instagram"></i></a>
-              </div>
-            </div>
+           
 
 
             <div class="col-12 col-md-4 team-2">
               
-                <img src="assets/img/avatar.png" alt="..." class="small-avatar">
+                <img src="assets/img/avatar/sharif.jpg" alt="..." class="small-avatar">
               
               <h5>Sharif Mussa</h5>
               <small>Web Developer</small>
-              <p>Saving mankind through hundreds of lines of code everyday... That's a miracle. </p>
+              <p>Why need resources you cannot use? improvise, work with what you have and show us all that its possible when we focus </p>
               <br>
               <div class="social social-boxed social-rounded social-gray">
-                <a class="social-facebook" href="#longinoBigage"><i class="fa fa-facebook"></i></a>
-                <a class="social-twitter" href="#@longibigage"><i class="fa fa-twitter"></i></a>
+                <a class="social-facebook"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter" ><i class="fa fa-twitter"></i></a>
         
               </div>
             </div>
 
               <div class="col-12 col-md-4 team-2">
-                <img src="assets/img/avatar/emma.jpg" alt="..." class="small-avatar">
-              <h5>Prince Emineys</h5>
-              <small>Graphics & Web Designer</small>
+                <img src="assets/img/avatar/colins.jpg" alt="..." class="small-avatar">
+              <h5>Colins</h5>
+              <small>Software Developer</small>
               <p>
-                What separates design from art is that design is meant to be... functional.
+                You make a mistake today, you learn, you don't do that again except when its fun time
               </p>
               <br>
               <div class="social social-boxed social-rounded social-gray">
-                <a class="social-facebook" href="https://www.facebook.com/emineysprince"><i class="fa fa-facebook"></i></a>
-                <a class="social-twitter" href="https://www.twitter.com/emineysprince"><i class="fa fa-twitter"></i></a>
-                <a class="social-linkedin" href="https://www.instagram.com/emineysprince"><i class="fa fa-instagram"></i></a>
+                 <a class="social-facebook"><i class="fa fa-facebook"></i></a>
+                <a class="social-twitter"><i class="fa fa-twitter"></i></a>
               </div>
             </div>
           </div>
