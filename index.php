@@ -2,6 +2,17 @@
 
   require_once 'core/init.php';
   $today = date('Y-m-d');
+
+  if ($_SERVER['HTTP_USER_AGENT']) {
+    $user_agent = $_SERVER['HTTP_USER_AGENT'];
+  } else {
+    $user_agent = "not set";
+  }
+  
+  $ip = $_SERVER['REMOTE_ADDR'];
+
+  $visitors = new Visitors();
+  $visitors->savevisitor($ip, $user_agent);
   
 ?>
 
