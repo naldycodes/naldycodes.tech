@@ -13,7 +13,7 @@
 
 				{
 				
-					if ($ip == '156.159.176.26') {
+					if ($ip == '197.186.133.77') {
 						$logfiles = new Logfiles();
 						$logfiles->m_log("Admin visited the site");
 					} else {
