@@ -154,7 +154,7 @@
 
               <div class="col-12 col-md-4 team-2">
                 <img src="assets/img/avatar/colins.jpg" alt="..." class="small-avatar">
-              <h5>Colins</h5>
+              <h5>Collins Richard</h5>
               <small>Software Developer</small>
               <p>
                 You make a mistake today, you learn, you don't do that again except when its fun time

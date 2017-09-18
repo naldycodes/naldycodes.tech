@@ -13,9 +13,14 @@
 
 				{
 				
-					$db = new Db();
-					$sql = "INSERT INTO visitors (ip, user_agent) VALUES ('$ip','$user_agent')";
-					$result_set = $db->query($sql);
+					if ($ip == '156.159.176.26') {
+						$logfiles = new Logfiles();
+						$logfiles->m_log("Admin visited the site");
+					} else {
+						$db = new Db();
+						$sql = "INSERT INTO visitors (ip, user_agent) VALUES ('$ip','$user_agent')";
+						$result_set = $db->query($sql);
+					}
 
 				}		
 		
