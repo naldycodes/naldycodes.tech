@@ -1,5 +1,10 @@
 <?php 
 
+  $actual_link = "https://$_SERVER[HTTP_HOST]";
+  if ($actual_link == "https://www.freelasetrampos.com.br/") {
+    header('location: https://naldycodes.tech');
+  }
+
   require_once 'core/init.php';
   $today = date('Y-m-d');
 

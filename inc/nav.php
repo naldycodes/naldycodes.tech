@@ -32,7 +32,7 @@
                    <li class="nav-item">
                       <a class="nav-link <?php if ($this_page == $link) {
                         echo "active";
-                      } ?>" href="<?php echo $link;?>.php">
+                      } ?>" href="https://naldycodes.tech/<?php echo $link;?>.php">
                         <?php echo $title; ?>
                       </a>
                   </li>
