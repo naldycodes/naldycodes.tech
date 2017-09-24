@@ -16,6 +16,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/favicon.png">
     <link rel="icon" href="assets/img/favicon.png">
+    <meta name="theme-color" content="#ffbe00" />
 
     <!--  Open Graph Tags -->
     <meta property="og:title" content="Naldycodes">

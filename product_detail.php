@@ -12,7 +12,7 @@
     <link href="assets/css/core.min.css" rel="stylesheet">
     <link href="assets/css/naldycodes.min.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
-
+    <meta name="theme-color" content="#ffbe00" />
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/favicon.png">
     <link rel="icon" href="assets/img/favicon.png">
