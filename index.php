@@ -29,6 +29,7 @@
     <meta name="description" content="A Technology company that delivers current technology from web to console applications, design, consultant services, computer repair, networking and many more, we are a backbone of young programmers with the passion to solve problems through technology.">
     <meta name="keywords" content="Tanzani, Tanzania technology, Naldycodes, Naldy, Tz">
     <meta name="theme-color" content="#ffbe00" />
+    <meta name="google-site-verification" content="qtNFBBrDgfIssriSO1TXW24ldkjwqXIMGbzAelmE97Q" />
     
     <title>Naldycodes The home of Tanzanian Technology</title>
 
