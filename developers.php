@@ -58,7 +58,7 @@
              <div class="col-12 col-md-4 center team-2">
                 <img src="assets/img/avatar/don.jpg" alt="..." class="small-avatar">
               <h5>Donald Felician</h5>
-              <small>Software Enginee</small>
+              <small>Software Engineer</small>
               <p>
                 Intelligence is the ability to avoid doing work, yet getting the work done.
               </p>
