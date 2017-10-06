@@ -58,7 +58,7 @@
              <div class="col-12 col-md-4 center team-2">
                 <img src="assets/img/avatar/don.jpg" alt="..." class="small-avatar">
               <h5>Donald Felician</h5>
-              <small>Founder Naldycodes</small>
+              <small>Software Enginee</small>
               <p>
                 Intelligence is the ability to avoid doing work, yet getting the work done.
               </p>
@@ -75,7 +75,7 @@
             <div class="col-12 col-md-4 team-2">
                 <img src="assets/img/dany.jpg" alt="..." class="small-avatar">
               <h5>Daniel Kindimba</h5>
-              <small>Founder Olbongo</small>
+              <small>Software Engineer</small>
               <p>
                 If brute force doesn’t solve your problems, then you aren’t using enough.
               </p>
