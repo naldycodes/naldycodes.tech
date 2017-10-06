@@ -18,6 +18,15 @@
 
   $visitors = new Visitors();
   $visitors->savevisitor($ip, $user_agent);
+
+  $today_quote = Functions::get_quote();
+
+  if (!$today_quote) {
+    $today_quote = new \stdClass();
+    $today_quote->name = "The secret of success is focus";
+    $today_quote->author = "Unknown";    
+  }
+
   
 ?>
 
@@ -180,10 +189,11 @@
         <div class="container">
           <header class="section-header">
             <small><?php echo $today; ?></small>
-            <h2>Today's Quote</h2>
+            <h2>Quote</h2>
             <hr>
             <p class="lead">
-              "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.” <br>– Paul Rand
+              "<?php echo $today_quote->name; ?>"
+              <br>- <?php echo $today_quote->author; ?>
             </p>
           </header>
         </div>
@@ -196,7 +206,7 @@
           <div class="row">
             
             <div class="col-12 col-lg-6 pl-50 pr-80">
-              <h2>Our Mission</h2>
+              <h2>Our Vision</h2>
               <p class="lead">
                 To be the Tanzanian's leading service provider of communication to the government and 
                 enterprises by helping them create, 
@@ -252,7 +262,7 @@
 
             <div class="col">
               <p>Ongoing Projects</p>
-              <h2><span data-provide="counter" data-from="0" data-to="3" data-speed="3000"></span></h2>
+              <h2><span data-provide="counter" data-from="0" data-to="3" data-speed="300"></span></h2>
             </div>
 
             <div class="col">

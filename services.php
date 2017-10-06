@@ -1,3 +1,11 @@
+<?php 
+
+  require_once 'core/init.php';
+  $services = Functions::get_services();
+  // die(var_dump($services));
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,11 +33,13 @@
     <meta name="twitter:card" content="summary_large_image">
   </head>
 
-  <body>
+  <body class="naldycodes-sections-split">
 
     <?php 
         $this_page = "services";
         require_once 'inc/nav.php';
+
+       
      ?>
          <!-- Header -->
     <header class="header header-inverse bg-fixed" style="background-image: url(assets/img/bg-laptop.jpg)" data-overlay="8">

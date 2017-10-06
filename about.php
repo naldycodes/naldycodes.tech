@@ -3,10 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Know who we are and what we offer...">
     <meta name="keywords" content="">
     
-    <title>Naldycodes The home of Tanzanian Technology</title>
+    <title>Naldycodes</title>
 
     <!-- Styles -->
     <link href="assets/css/core.min.css" rel="stylesheet">
@@ -15,15 +15,9 @@
     <meta name="theme-color" content="#ffbe00" />
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
     <link rel="icon" href="assets/img/favicon.png">
 
-
-    <!--  Open Graph Tags -->
-    <meta property="og:title" content="Naldycodes">
-    <meta property="og:description" content="A Technology company that delivers current technology from web to console applications, design, consultant services, computer repair, networking and many more, we are a backbone of young programmers with the passion to solve problems through technology.">
-    <meta property="og:image" content="assets/img/favicon.png">
-    <meta name="twitter:card" content="summary_large_image">
+   
   </head>
 
   <body>

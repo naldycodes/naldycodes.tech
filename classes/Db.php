@@ -41,6 +41,10 @@ class Db {
         return $result->fetch_array();
     }
 
+    public function fetch_object($result){
+        return $result->fetch_object();
+    }
+
     public function close_connection(){
         if(isset($this->connection)){
             mysqli_close($this->connection);
